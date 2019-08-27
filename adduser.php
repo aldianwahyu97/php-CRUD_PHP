@@ -1,5 +1,5 @@
 <html>
-<title> Tambah User </title>
+<title> Tambah Pengguna </title>
 
 <body>
     <a href = "index.php"> Kembali ke Beranda </a>
